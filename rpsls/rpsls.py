@@ -1,4 +1,4 @@
-gitimport random
+gitgiimport random
 
 # Define the rules of the game
 RULES = {
